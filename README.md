@@ -1,3 +1,5 @@
+[]https://ils.unc.edu/courses/2017_spring/inls161_002/)
+
 # HTML Class
 
 Fork this repository to your GitHub account and then you will be able to download it to your computer or git clone it to your computer. It contains files you will need for the intro HTML class.
