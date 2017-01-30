@@ -2,7 +2,7 @@
 
 Fork this repository to your GitHub account and then you will be able to download it to your computer or git clone it to your computer. It contains files you will need for the intro HTML class.
 
-##  [h1through H6 tags](http://codepen.io/lblakej/pen/xRRYLJ)
+##  [h1 through H6 tags](http://codepen.io/lblakej/pen/xRRYLJ)
 
 Heading tags are semantic. That means that they have meaning. There should only be one heading tag per page. If you have h3 tags, they should be under h2 tags. **Get into the habit of using lowercase for all tags.**
 
