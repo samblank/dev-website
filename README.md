@@ -10,5 +10,5 @@ Heading tags are semantic. That means that they have meaning. There should only 
 
 We are using the Atom Text Editor because it is cross platform. It works the same on PC and Mac. You can use any text editor you like, but make sure that it is a **plain** text editor. You don't want any stray code to get saved to your work. (I do not like Mac Text
 
-## FTP
-Confirm everone has FTP set up.
+## SFTP
+Confirm everyone has SFTP client. If you do not have sftp setup on your laptop, or you dont have your laptop, use the Secure File Transfer client on the class computer.
