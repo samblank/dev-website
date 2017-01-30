@@ -1,4 +1,4 @@
-[]https://ils.unc.edu/courses/2017_spring/inls161_002/)
+[Class Web Page](https://ils.unc.edu/courses/2017_spring/inls161_002/)
 
 # HTML Class
 
